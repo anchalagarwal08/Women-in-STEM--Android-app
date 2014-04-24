@@ -3,40 +3,36 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/women_watermark_2"
+    android:background="@drawable/women_watermark_2"
     android:orientation="horizontal"
     android:paddingTop="400dp" >
 
     <ImageButton
-        android:id="@+id/connections"
-        android:layout_width="86dp"
+        android:id="@+id/imageButton1"
+        android:layout_width="78dp"
         android:layout_height="wrap_content"
         android:background="#ffffff"
-        android:src="@drawable/ic_launcher2" />
+        android:src="@drawable/connections" />
 
     <ImageButton
-        android:id="@+id/learning"
-        android:layout_width="wrap_content"
-        android:layout_height="match_parent"
-        android:background="#ffffff"
-        android:src="@drawable/e_learning_icon" />
-
-    <Space
-        android:layout_width="wrap_content"
-        android:layout_height="match_parent" />
-
-    <ImageButton
-        android:id="@+id/events"
-        android:layout_width="wrap_content"
-        android:layout_height="60dp"
-        android:background="#ffffff"
-        android:src="@drawable/events" />
-
-    <ImageButton
-        android:id="@+id/idea"
-        android:layout_width="match_parent"
+        android:id="@+id/imageButton2"
+        android:layout_width="82dp"
         android:layout_height="wrap_content"
         android:background="#ffffff"
-        android:src="@drawable/Idea_icon" />
+        android:src="@drawable/learning" />
+
+    <ImageButton
+        android:id="@+id/imageButton3"
+        android:layout_width="97dp"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        android:src="@drawable/event" />
+
+    <ImageButton
+        android:id="@+id/imageButton4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        android:src="@drawable/ideaboard" />
 
 </LinearLayout>
-

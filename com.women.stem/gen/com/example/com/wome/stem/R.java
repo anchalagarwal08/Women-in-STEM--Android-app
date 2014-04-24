@@ -22,15 +22,32 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int black_overlay=0x7f040000;
     }
     public static final class drawable {
-        public static final int ic_launcher=0x7f020000;
+        public static final int e_learning_icon=0x7f020000;
+        public static final int events=0x7f020001;
+        public static final int ic_launch=0x7f020002;
+        public static final int ic_launcher=0x7f020003;
+        public static final int ic_launcher2=0x7f020004;
+        public static final int ic_launcher31=0x7f020005;
+        public static final int idea_icon=0x7f020006;
+        public static final int share_an_idea=0x7f020007;
+        public static final int untitled=0x7f020008;
+        public static final int women_watermark=0x7f020009;
+        public static final int women_watermark_2=0x7f02000a;
     }
     public static final class id {
-        public static final int dummy_button=0x7f070002;
+        public static final int LinearLayout1=0x7f070002;
+        public static final int connections=0x7f070004;
+        public static final int editText1=0x7f070003;
+        public static final int events=0x7f070006;
         public static final int fullscreen_content=0x7f070000;
-        public static final int fullscreen_content_controls=0x7f070001;
+        public static final int idea=0x7f070007;
+        public static final int imageButton1=0x7f070001;
+        public static final int learning=0x7f070005;
     }
     public static final class layout {
         public static final int activity_fullscreen=0x7f030000;
+        public static final int login=0x7f030001;
+        public static final int main=0x7f030002;
     }
     public static final class string {
         public static final int app_name=0x7f050000;
