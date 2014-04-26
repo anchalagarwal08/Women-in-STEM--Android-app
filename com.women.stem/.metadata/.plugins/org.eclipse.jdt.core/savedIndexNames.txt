@@ -1,2 +1,0 @@
-INDEX VERSION 1.126+/Users/anchalagarwal/women_android_app/com.women.stem/.metadata/.plugins/org.eclipse.jdt.core
-2461607379.index
